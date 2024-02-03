@@ -4,14 +4,26 @@ Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o ace
 
 ## Assuntos Abordados no Desenvolvimento do Projeto:
 
-:heavy_check_mark: Acesso a banco de dados com o MySql
+:heavy_check_mark: Acesso a banco de dados com o MySql 
+
+<br>
+
 :heavy_check_mark: Otimização da conexão com o banco de dados através do PDO (PHP Data Object)
+<br>
+
 :heavy_check_mark: Uso de linguagens, como: JavaScript e CSS
+<br>
+
 :heavy_check_mark: Uso do framework Bootstrap para realização de um layout responsivo para o projeto.
+<br>
+
 
 ## Configuração do Projeto:
 
 :heavy_check_mark: Executar a query pessoa.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
+
+<br>
+
 :heavy_check_mark: Editar o arquivo **banco.php** 
 
 ```
