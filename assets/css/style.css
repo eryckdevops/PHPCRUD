@@ -1,0 +1,12 @@
+/* Adicione seu CSS personalizado aqui */
+
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+}
