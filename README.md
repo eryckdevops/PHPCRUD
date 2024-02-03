@@ -1,4 +1,4 @@
-# Projeto Simples CRUD em PHP :heavy_check_mark: Bootstrap, PDO & MySQL
+# Projeto Simples CRUD em PHP, Bootstrap, PDO & MySQL
 
 Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o acesso a banco de dados com o MySQL e linguagem PHP.
 
@@ -20,9 +20,7 @@ Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o ace
 ## Configuração do Projeto:
 
 :heavy_check_mark: Executar a query pessoa.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
-
 <br>
-
 :heavy_check_mark: Editar o arquivo **banco.php** 
 
 ```
